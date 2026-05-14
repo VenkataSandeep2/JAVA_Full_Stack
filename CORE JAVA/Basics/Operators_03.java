@@ -2,7 +2,7 @@ class Operators_03
   {
     public static void main(String args[])
     {
-      int a = 22;
+      int a = 12;
       int b = 5;
       System.out.println("Arithmetic Operator");
       System.out.println(a+b);
